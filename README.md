@@ -7,7 +7,8 @@
 - Trần Khánh Dư     23120234
 - Trần Đại Hiệp     23120256
 - Nguyễn Hoàn Long  22120193
--> link danh sách nhóm: https://docs.google.com/spreadsheets/d/1mf7zgCcihm67zQJ6USmL_qNj8cWdBvKgVf4nW_Jnu2Y/edit?usp=sharing
+  
+=> link danh sách nhóm: https://docs.google.com/spreadsheets/d/1mf7zgCcihm67zQJ6USmL_qNj8cWdBvKgVf4nW_Jnu2Y/edit?usp=sharing
 ## 🤝 Quy tắc làm việc nhóm trên GitHub
 
 ### 🌐 Ngôn ngữ sử dụng
