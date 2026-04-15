@@ -85,7 +85,7 @@ git push origin ten-branch
 
 * Tránh conflict
 * Dễ quản lý code
-* Làm việc chuyên nghiệp như team thật
+* Làm việc chuyên nghiệp
 
 
 ## 🛠️ Công nghệ
