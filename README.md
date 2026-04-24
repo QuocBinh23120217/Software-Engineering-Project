@@ -95,3 +95,39 @@ git push origin ten-branch
 
 
 ## 📂 Cấu trúc thư mục
+```bash
+project-root/
+│
+├── src/                       # Chứa toàn bộ source code
+│   ├── backend/               # Xử lý logic phía sau
+│   ├── frontend/              # Giao diện người dùng
+│   └── common/                # Code dùng chung
+│
+├── docs/                      # Chứa tài liệu dự án
+│   ├── management/            # Kế hoạch & báo cáo
+│   │   ├── weekly-reports/    # Báo cáo hàng tuần
+│   │   ├── project-status/    # Báo cáo tiến độ
+│   │   └── planning-docs/     # Tài liệu lập kế hoạch
+│   │
+│   ├── requirements/          # Tài liệu yêu cầu
+│   │   ├── vision-doc/        # Vision document
+│   │   └── use-cases/         # Use case
+│   │
+│   ├── analysis-and-design/   # Phân tích & thiết kế
+│   │   ├── architecture/      # Kiến trúc hệ thống
+│   │   ├── uml/               # Sơ đồ UML
+│   │   └── ui-design/         # Thiết kế UI
+│   │
+│   └── test/                  # Tài liệu kiểm thử
+│       ├── test-plan/         # Kế hoạch test
+│       ├── test-cases/        # Test case
+│       └── test-reports/      # Báo cáo test
+│
+├── pa/                        # Nơi lưu các lần nộp bài (PA)
+│   ├── pa1/
+│   ├── pa2/
+│   └── pa3/
+│
+├── README.md                  # Mô tả project
+└── requirements.txt           # Thư viện Python sử dụng
+```
